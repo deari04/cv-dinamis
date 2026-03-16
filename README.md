@@ -1,8 +1,3 @@
-<p align="justify">Proyek CV-Dinamis ini pengembangan lanjutan dari CV Statis sebelumnya, di mana informasi pribadi (CV) kini diolah menggunakan konsep website dinamis. Dibangun dengan framework Laravel, yang memungkinkan untuk mengubah, menambah, atau menghapus konten CV seperti profil, riwayat pendidikan, pengalaman kerja, dan keahlian tanpa perlu menyentuh kode program secara langsung. Semua data disimpan dalam database MySQL/MariaDB, agar mempermudah pembaruan CV secara berkala dan menampilkan resume dalam format digital. </br>
-Proyek CV Statis dan Dinamis ini merupakan tugas selama Masa PKL atau Magang di Industri, untuk melatih kemampuan pengembangan website.
-</p>
-
-
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
